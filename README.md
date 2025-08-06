@@ -58,11 +58,11 @@ Day-wise, Month-wise, and Model-wise Sales Analysis
 
 Customer Feedback Distribution
 
-<img width="1327" height="742" alt="Screenshot 2025-08-06 122039" src="https://github.com/user-attachments/assets/23f03f51-d240-4fb1-a2af-782be099681d" />
+<img width="1328" height="750" alt="Screenshot 2025-08-06 120639" src="https://github.com/user-attachments/assets/d48342f3-270c-4307-8bc3-092c198145d5" />
 
 <img width="1323" height="742" alt="Screenshot 2025-08-06 120658" src="https://github.com/user-attachments/assets/47ce7300-cd46-4c68-bd8c-a83ea7626e31" />
 
-<img width="1328" height="750" alt="Screenshot 2025-08-06 120639" src="https://github.com/user-attachments/assets/d48342f3-270c-4307-8bc3-092c198145d5" />
+<img width="1327" height="742" alt="Screenshot 2025-08-06 122039" src="https://github.com/user-attachments/assets/23f03f51-d240-4fb1-a2af-782be099681d" />
 
 📣 Feedback
 
